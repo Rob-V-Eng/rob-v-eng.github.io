@@ -45,47 +45,39 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: 3D Modeling and Rendering
     tools:
-    - Onshape
     - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - AutoCAD
+    - Autodesk Revit
+    - Enscape
+  - category: Simulation and Analysis
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - Finite Element Analysis (FEM)
+    - Computational Fluid Dynamics (CFD)
+    - ANSYS
+    - Star CCM+
   - category: Design Standards / Practices
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - GD&T
+    - Design for Manufacturability (DFM)
+    - Design for Assembly (DFA)
+    - Design for Cost (DFC)
+    - Lean Six Sigma
+    - BOM Creation & Management
+    - Root Cause Analysis
+  - category: Programming & Automation
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+    - Virtual Basic Application (VBA)
+    - Arduino
+    - Python
+    - MATLAB
+  - category: Documentation & Technical Communication
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
-
+    - Piping & Instrumentation Diagrams (P&ID)
+    - Authorization for Expenditure (AFE) Report Writing
+    - Standard Operating Procedure (SOP) Writing
+    - Bills of Materials (BOM)
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
