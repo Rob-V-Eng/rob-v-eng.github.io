@@ -63,6 +63,7 @@ skills:
     - Design for Manufacturability (DFM)
     - Design for Assembly (DFA)
     - Design for Cost (DFC)
+    - Clearance & Tolerance Specification
     - Lean Six Sigma
     - BOM Creation & Management
     - Root Cause Analysis
@@ -80,7 +81,7 @@ skills:
     - Bills of Materials (BOM)
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/xjkwrdvz
 
 
 
