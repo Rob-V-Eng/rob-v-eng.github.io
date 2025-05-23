@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Spring-Loaded Cutting Head
+description:  To reduce wear and manual adjustment in the pelletizer cutting process, I redesigned the existing cutting head with a spring-loaded mechanism. This ensures constant blade pressure against the breaker head, improving blade lifespan and reducing downtime.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - SolidWorks
+  - Mechanical Design
+  - DFM/DFA
+  - Prototyping
+  - Problem Solving
 
 main-image: /project2.jpg
 ---
@@ -18,8 +15,26 @@ main-image: /project2.jpg
 ---
 # Header 1 
 Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
+
+## Background & Objective
+The original pelletizer blades wore quickly and required frequent manual adjustment to maintain blade-to-breaker head contact. The goal was to automate this adjustment and increase blade longevity. A worn-out pelletizer head is shown in Figure 1.
+
+*insert image*
+
+## Design and Prototyping Process
+I began by disassembling the original cutting head from the pelletizer machine to fully understand its form and function. After carefully measuring all critical dimensions, I created a 3D model in SolidWorks. From there, I modified the design to incorporate a spring-loaded mechanism that would apply constant pressure to keep the blades flush against the breaker head.
+
+Several design iterations were explored to ensure proper material compatibility, spring force optimization, and ease of assembly. Once finalized, the modified cutting head was fabricated and assembled as a prototype for testing. THe Solidworks drawings and prototype is shown in Figure 2 and Figure 3, respectively.
+
+*insert drawings*
+
+*insert prototype*
+
+## Outcomes & Impact 
+- Improved quality and consistency of plastic pellets
+- Reduced pelletizer machine downtime by 30%
+- Increased blade lifespan
+
 ### Header 3 
 Use this to have subsection if needed
 
