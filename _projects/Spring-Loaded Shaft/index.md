@@ -9,7 +9,7 @@ skills:
   - Prototyping
   - Problem Solving
 
-main-image: /Prototype
+main-image: /project1-1.png
 ---
 
 ---
@@ -26,9 +26,9 @@ I began by disassembling the original cutting head from the pelletizer machine t
 
 Several design iterations were explored to ensure proper material compatibility, spring force optimization, and ease of assembly. Once finalized, the modified cutting head was fabricated and assembled as a prototype for testing. THe Solidworks drawings and prototype is shown in Figure 2 and Figure 3, respectively.
 
-/Head Drawings
+/project1-2.png
 
-/Prototype
+/project1-3.png
 
 ## Outcomes & Impact 
 - Improved quality and consistency of plastic pellets
