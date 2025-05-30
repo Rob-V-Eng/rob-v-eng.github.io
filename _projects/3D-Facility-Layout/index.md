@@ -20,13 +20,13 @@ The team was looking to add new machines to the Blending Area, but there wasn’
 I took detailed measurements of all machines and open areas, then modeled everything to scale in SolidWorks. The 3D layout included spacing for walkways, maintenance access, and utility connections. The 3D map of the Bleding Area is shown in Figures 1-3:
 
 {% include image-gallery.html images="project2-1.png" height="400" %}
-**Figure 1. **
+**Figure 1.**
 
 {% include image-gallery.html images="project2-2.png" height="400" %}
-**Figure 2. **
+**Figure 2.**
 
 {% include image-gallery.html images="project2-3.png" height="400" %} 
-**Figure 3. **
+**Figure 3.**
 
 ## Outcomes & Impact 
 - Allowed new equipment to be added without layout conflicts
