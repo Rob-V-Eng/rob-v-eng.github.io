@@ -30,8 +30,3 @@ I took detailed measurements of all machines and open areas, then modeled everyt
 {% include image-gallery.html images="project2-3.png" height="400" %} 
 **Figure 3.**
 
-## Outcome & Impact
-- Allowed new equipment to be added without layout conflicts
-- Helped improve flow and reduce bottlenecks in material handling
-- Became a useful reference for planning future expansions
-- Improved communication during layout planning meetings
