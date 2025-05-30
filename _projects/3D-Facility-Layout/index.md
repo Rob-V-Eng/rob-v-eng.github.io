@@ -3,107 +3,35 @@ layout: post
 title: 3D Facility Map
 description:  Created a detailed 3D map of an area of an IPEX plant (the Blending department) to assess the feasibility of integrating new equipment within the space and to optimize layout planning. The map enables more efficient spatial planning and equipment coordination. The map also allows the rearrangement of existing equipment.
 
+I created a full 3D map of the Blending Area to help plan equipment upgrades and rearrangements. It made it easy to see how new machines could fit into the space without interfering with existing equipment.
+
 skills: 
   - SolidWorks
-  - Measurement & Spatial Planning
+  - Measurement & Surveying
   - Equipment Integration
+  - Cross-Team Communication
     
 main-image: /project2-3.png
 ---
 
 ---
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Background & Objective  
+The team was looking to add new machines to the Blending Area, but there wasn’t a clear layout showing how much space was available. Equipment layout was planned using rough hand sketches and estimates, which made it difficult to visualize spacing and often led to installation issues
 
+## Design Process
+I took detailed measurements of all machines and open areas, then modeled everything to scale in SolidWorks. The 3D layout included spacing for walkways, maintenance access, and utility connections. The 3D map of the Bleding Area is shown in Figures 1-3:
 
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+{% include image-gallery.html images="project2-1.png" height="400" %}
+**Figure 1.**
 
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+{% include image-gallery.html images="project2-2.png" height="400" %}
+**Figure 2.**
 
+{% include image-gallery.html images="project2-3.png" height="400" %} 
+**Figure 3.**
 
-## Embedding youtube video
-The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-*Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
-
-you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
-
-The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
-{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
-
-<br>
-
-## Adding a hozontal line
----
-
-## Starting a new line
-leave two spaces "  " at the end or enter <br>
-
-## Adding bold text
-this is how you input **bold text**
-
-## Adding italic text
-Italicized text is the *cat's meow*.
-
-## Adding ordered list
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-## Adding unordered list
-- First item
-- Second item
-- Third item
-- Fourth item
-
-## Adding code block
-```ruby
-def hello_world
-  puts "Hello, World!"
-end
-```
-
-```python
-def start()
-  print("time to start!")
-```
-
-```javascript
-let x = 1;
-if (x === 1) {
-  let x = 2;
-  console.log(x);
-}
-console.log(x);
-
-```
-
-## Adding external links
-[Wikipedia](https://en.wikipedia.org)
-
-
-## Adding block quote
-> A blockquote would look great if you need to highlight something
-
-
-## Adding table 
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
-
-make sure to leave aline betwen the table and the header
-
-
-
+## Outcome & Impact
+- Allowed new equipment to be added without layout conflicts
+- Helped improve flow and reduce bottlenecks in material handling
+- Became a useful reference for planning future expansions
+- Improved communication during layout planning meetings
