@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 3D Facility Map
-description:  Created a detailed 3D map of the Blending Area to assess the feasibility of new equipment integration and to optimize layout planning. The map enables more efficient spatial planning and equipment coordination.
+description:  Created a detailed 3D map of an area of an IPEX plant (the Blending department) to assess the feasibility of integrating new equipment within the space and to optimize layout planning. The map enables more efficient spatial planning and equipment coordination. The map also allows the rearrangement of existing equipment.
+
 skills: 
   - SolidWorks
   - Measurement & Spatial Planning
@@ -11,8 +12,6 @@ main-image: /project2-3.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
