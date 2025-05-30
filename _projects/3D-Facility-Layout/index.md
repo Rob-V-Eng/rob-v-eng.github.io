@@ -8,7 +8,7 @@ skills:
   - Measurement & Spatial Planning
   - Equipment Integration
     
-main-image: /project2-3.jpg
+main-image: /project2-3.png
 ---
 
 ---
