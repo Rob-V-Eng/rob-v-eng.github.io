@@ -16,9 +16,6 @@ main-image: /project2-3.png
 ## Background & Objective
 The team was looking to add new machines to the Blending Area, but there wasn’t a clear layout showing how much space was available. Equipment layout was planned using rough hand sketches and estimates, which made it difficult to visualize spacing and often led to installation issues.
 
-{% include image-gallery.html images="project1-1.png" height="600" %}
-**Figure 1.** The original pelletizer cutting head.
-
 ## Design and Prototyping Process
 I took detailed measurements of all machines and open areas, then modeled everything to scale in SolidWorks. The 3D layout included spacing for walkways, maintenance access, and utility connections. The 3D map of the Bleding Area is shown in Figures 1-3:
 
