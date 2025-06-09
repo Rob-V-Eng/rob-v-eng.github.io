@@ -31,7 +31,7 @@ resume-url: https://drive.google.com/file/d/1NHgxdNgplRg7LudOAkiGfzBDrLA66QAxxxx
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin:  robvakh   # https://www.linkedin.com/in/robvakhxxxxxxx
+  linkedin:  robvakhabcac   # https://www.linkedin.com/in/robvakh
   github:     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
