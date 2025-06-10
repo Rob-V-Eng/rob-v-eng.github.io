@@ -31,25 +31,21 @@ The team needed a way to funnel loose material cleanly into the feeder and elimi
 **Figure 1.** Dust accumulation by the feeder.
 
 ## Design Process
-**1. Measurement & Reverse Engineering**
-I removed the existing hopper lid and took detailed measurements of its diameter, bolt pattern, and overall geometry. This ensured any modified version would fit exactly into place without needing changes to the hopper body.
+**1. Measurement & Reverse Engineering:** I removed the existing hopper lid and took detailed measurements of its diameter, bolt pattern, and overall geometry. This ensured any modified version would fit exactly into place without needing changes to the hopper body.
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 2.** Existing Hopper Lid.
 
-**2. 3D Redesign in SolidWorks**
-Using SolidWorks, I recreated the lid model and then:
+**2. 3D Redesign in SolidWorks:** Using SolidWorks, I recreated the lid model and then:
 - Added a bowl-shaped attachment to direct material toward the center opening.
 - Integrated a splitter fin into the funnel that would break up clumps and guide flow more evenly into the feeder.
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 3.** SolidWorks Model of New Design.
 
-**3. Design for Manufacturing**
-I ensured the new design could be fabricated with minimal changes to the lid structure — bolt holes and lid sealing features were preserved. 
+**3. Design for Manufacturing:** I ensured the new design could be fabricated with minimal changes to the lid structure — bolt holes and lid sealing features were preserved. 
 
-**4. Operator and Maintenance Input:**
-Before finalizing the design, I shared it with shop floor staff to confirm ease of use and cleaning.
+**4. Operator and Maintenance Input:** Before finalizing the design, I shared it with shop floor staff to confirm ease of use and cleaning.
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 4.** New Hopper Lid with Dust Collector.
