@@ -56,3 +56,33 @@ The team needed a way to funnel loose material cleanly into the feeder and elimi
 - Boosted Operator Confidence: The system became more hands-off, so operators could focus on running the line, not managing spills.
 - Design Scalability: The parametric model could be reused or modified for other feeder setups with minimal effort.
 
+# Custom Adapters for Hopper-Feeder Gap
+## Overview 
+After a new motor was installed on a feeder system, the assembly’s height changed, leaving a vertical gap between the hopper and the feeder pipe. This caused spillage, disrupted material flow, and created unnecessary downtime. I designed and delivered custom adapter collars that perfectly bridged the gap and restored seamless operation — without needing to relocate or modify existing equipment.
+
+## Background & Objective
+During an equipment upgrade, a new motor was installed for the feeder, which had a different mounting height than the original one. As a result, the entire feeder assembly sat lower, creating a noticeable gap between the bottom of the hopper and the top of the feeder pipe.
+
+This misalignment caused poor material transfer, increased spillage, and disrupted production. The challenge was to design a fast, cost-effective solution that bridged the gap, restored proper material flow, and fit within the existing layout — without needing to relocate equipment or redesign the motor mount.
+
+{% include image-gallery.html images="project2.jpg" height="400" %}
+**Figure 1.** Dust accumulation by the feeder.
+
+## Design Process
+**1. On-Site Assessment & Measurements:** I measured the vertical offset between the hopper and the feeder, and took diameter measurements for both ends. The solution had to be simple, reliable, and repeatable — as three different production lines were affected by the same issue.
+
+**2. Adapter Geometry & Modeling:** I designed a tapered adapter sleeve in SolidWorks with:
+- A smaller diameter at the top (to fit the hopper outlet)
+- A larger diameter at the bottom (to match the feeder inlet)
+- A smooth internal transition to avoid material hang-up or turbulence
+- The design had no moving parts, no fasteners, and could be easily clamped or sealed into place using the existing assembly hardware.
+
+**3. Standardization for Scalability:** Since the gap and pipe dimensions were identical across all three affected lines, I reused the same design for all units, allowing for batch fabrication and quick installation.
+
+**4. Fabrication Readiness:** The model was optimized for machining or sheet metal forming, using standard pipe stock sizes to keep material costs low and turnaround time short.
+
+## Outcomes & Impact
+- **Restored Full Operation:** Material flow between hopper and feeder was immediately reestablished.
+- **Quick Turnaround:** Designed, modeled, and delivered the adapters within a short timeframe, minimizing downtime.
+- **Replicable Design:** One model served three lines — no adjustments were needed, which simplified fabrication and documentation.
+- **Low-Cost, High-Impact:** Solved a system-level problem using a minimalist, robust design that required no additional controls or moving parts.
