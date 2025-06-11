@@ -86,3 +86,18 @@ This misalignment caused poor material transfer, increased spillage, and disrupt
 - **Quick Turnaround:** Designed, modeled, and delivered the adapters within a short timeframe, minimizing downtime.
 - **Replicable Design:** One model served three lines — no adjustments were needed, which simplified fabrication and documentation.
 - **Low-Cost, High-Impact:** Solved a system-level problem using a minimalist, robust design that required no additional controls or moving parts.
+
+# Feeder Pipe Housing System
+## Overview 
+
+
+## Background & Objective
+
+
+{% include image-gallery.html images="project2.jpg" height="400" %}
+**Figure 1.** Dust accumulation by the feeder.
+
+## Design Process
+
+
+## Outcomes & Impact
