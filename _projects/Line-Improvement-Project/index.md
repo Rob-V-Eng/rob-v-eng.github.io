@@ -108,10 +108,9 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 **Version 1: Basic Dual-Inlet Housing**
 1. Measurement & Fitment Planning: I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
 
-2. CAD Modeling in SolidWorks:
+3. CAD Modeling in SolidWorks:
 
-I created a tri-ported housing with:
-
+  I created a tri-ported housing with:
 - Two angled inlets (left and right)
 - A single outlet aligned with the line intake
 - Internal flow guides to reduce turbulence and promote smooth merging of materials
@@ -124,19 +123,15 @@ I created a tri-ported housing with:
 As soon as the first housing was installed, operators requested a way to manually add small batches of material, such as when cleaning or starting a new product run. Instead of modifying the first unit, I created an enhanced second version.
 
 1. Modified Design Based on Operator Feedback
-I retained the overall geometry of the first housing but added:
 
+  I retained the overall geometry of the first housing but added:
 - Two top-facing access ports (one on each side)
 - Hinged metal lids with small handles and magnetic closures
 - Safety flanges to prevent sharp edges and improve operator comfort
 
-2. Structural Enhancements
+2. Structural Enhancements: To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
 
-To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
-
-3. Prototyping & Collaboration
-
-I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
+3. Prototyping & Collaboration: I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
 
 ## Outcomes & Impact
 - Improved Material Flow: The housings connected all pipes securely, reduced product loss, and promoted consistent merging of material into the line.
