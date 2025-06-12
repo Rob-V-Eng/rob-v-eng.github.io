@@ -89,15 +89,58 @@ This misalignment caused poor material transfer, increased spillage, and disrupt
 
 # Feeder Pipe Housing System
 ## Overview 
-
+I designed and delivered two versions of a custom housing that connects two material inlets into one outlet feeding the production line. The first version was a sealed housing to route and contain material flow. The second version included additional top access with hinged lids, allowing operators to pour in material manually when needed. These designs improved material handling, flow reliability, and operator flexibility.
 
 ## Background & Objective
+When I was assigned the task, the setup consisted of two separate pipes feeding into the line, but there was no proper housing or containment — just loosely arranged pipes with no clear connection or integration.
 
+While I wasn’t provided the previous setup, it was clear from the open-ended nature of the pipes that material loss, dust, and inefficient flow were recurring issues. My objective was to create a modular housing that would:
+
+- Cleanly join two incoming material sources into one outlet
+- Prevent spillage or product loss
+- Be easy to fabricate, install, and maintain
+- (In version two) Allow manual top-up by operators without interrupting production
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 1.** Dust accumulation by the feeder.
 
 ## Design Process
+**Version 1: Basic Dual-Inlet Housing**
+1. Measurement & Fitment Planning: I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
 
+2. CAD Modeling in SolidWorks:
+
+I created a tri-ported housing with:
+
+- Two angled inlets (left and right)
+- A single outlet aligned with the line intake
+- Internal flow guides to reduce turbulence and promote smooth merging of materials
+- Bolt-on flanges for quick mounting
+
+3. Fabrication-Ready Design: Using sheet metal tools in SolidWorks, I ensured the model could be laser cut and bent with standard shop capabilities.
+
+**Version 2: Pour-In Enabled Housing with Hinged Lids**
+
+As soon as the first housing was installed, operators requested a way to manually add small batches of material, such as when cleaning or starting a new product run. Instead of modifying the first unit, I created an enhanced second version.
+
+1. Modified Design Based on Operator Feedback
+I retained the overall geometry of the first housing but added:
+
+- Two top-facing access ports (one on each side)
+- Hinged metal lids with small handles and magnetic closures
+- Safety flanges to prevent sharp edges and improve operator comfort
+
+2. Structural Enhancements
+
+To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
+
+3. Prototyping & Collaboration
+
+I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
 
 ## Outcomes & Impact
+- Improved Material Flow: The housings connected all pipes securely, reduced product loss, and promoted consistent merging of material into the line.
+- Cleaner Work Environment: Eliminated spillage from open pipe ends, making the surrounding area safer and more professional.
+- Operator Empowerment: The pour-in version gave staff more control, reducing downtime during material top-ups and changeovers.
+- Adaptable Design: The two versions gave the team flexibility depending on the line’s specific needs — sealed vs. access-enabled.
+- Fast Turnaround: Both designs were manufacturable in-house with existing shop equipment, keeping costs and delays to a minimum.
