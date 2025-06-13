@@ -107,6 +107,7 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 ## Design Process
 **Version 1: Basic Dual-Inlet Housing**
 1. Measurement & Fitment Planning: I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
+
 2. CAD Modeling in SolidWorks:
 
   I created a tri-ported housing with:
@@ -129,6 +130,7 @@ As soon as the first housing was installed, operators requested a way to manuall
 - Safety flanges to prevent sharp edges and improve operator comfort
 
 2. Structural Enhancements: To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
+
 3. Prototyping & Collaboration: I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
 
 ## Outcomes & Impact
