@@ -106,9 +106,9 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 
 ## Design Process
 **Version 1: Basic Dual-Inlet Housing**
-1. Measurement & Fitment Planning: I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
+1) Measurement & Fitment Planning: I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
 
-2. CAD Modeling in SolidWorks:
+2) CAD Modeling in SolidWorks:
 
   I created a tri-ported housing with:
 - Two angled inlets (left and right)
@@ -116,7 +116,7 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 - Internal flow guides to reduce turbulence and promote smooth merging of materials
 - Bolt-on flanges for quick mounting
 
-3. Fabrication-Ready Design: Using sheet metal tools in SolidWorks, I ensured the model could be laser cut and bent with standard shop capabilities.
+3) Fabrication-Ready Design: Using sheet metal tools in SolidWorks, I ensured the model could be laser cut and bent with standard shop capabilities.
 
 **Version 2: Pour-In Enabled Housing with Hinged Lids**
 
