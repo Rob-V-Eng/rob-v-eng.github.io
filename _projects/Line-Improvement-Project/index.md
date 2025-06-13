@@ -152,7 +152,7 @@ I consulted operators to make sure the height and opening size were practical. T
 
 # Concept Design – Metal Separator
 ## Overview 
-I developed a concept for a magnetic rod-based separator designed to fit inside a feeder pipe and capture ferrous metal contaminants before they reach downstream equipment. The goal was to create a passive, easy-to-install solution that could be manufactured in-house and maintained with minimal effort. While the design was not manufactured during my co-op, it demonstrated initiative and served as a proof of concept for future process improvements.
+I developed a concept for a magnetic rod-based separator designed to fit inside a feeder pipe and capture metal contaminants before they reach downstream equipment. The goal was to create a passive, easy-to-install solution that could be manufactured in-house and maintained with minimal effort. While the design was not manufactured during my tenure, it demonstrated initiative and served as a proof of concept for future process improvements.
 
 ## Background & Objective
 Occasional metal contamination — such as small bolts, screws, or shavings — was reported in the plastic pellet stream, posing a risk to sensitive feeder machinery and overall product quality. The engineering team was looking for simple, low-cost ideas that didn’t require expensive equipment or redesigning the system.
