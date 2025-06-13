@@ -56,6 +56,7 @@ The team needed a way to funnel loose material cleanly into the feeder and elimi
 - Boosted Operator Confidence: The system became more hands-off, so operators could focus on running the line, not managing spills.
 - Design Scalability: The parametric model could be reused or modified for other feeder setups with minimal effort.
 
+
 # Custom Adapters for Hopper-Feeder Gap
 ## Overview 
 After a new motor was installed on a feeder system, the assembly’s height changed, leaving a vertical gap between the hopper and the feeder pipe. This caused spillage, disrupted material flow, and created unnecessary downtime. I designed and delivered custom adapter collars that perfectly bridged the gap and restored seamless operation — without needing to relocate or modify existing equipment.
@@ -69,6 +70,7 @@ This misalignment caused poor material transfer, increased spillage, and disrupt
 **Figure 1.** Dust accumulation by the feeder.
 
 ## Design Process
+
 **1) On-Site Assessment & Measurements:** I measured the vertical offset between the hopper and the feeder, and took diameter measurements for both ends. The solution had to be simple, reliable, and repeatable — as three different production lines were affected by the same issue.
 
 **2) Adapter Geometry & Modeling:** I designed a tapered adapter sleeve in SolidWorks with:
@@ -86,6 +88,7 @@ This misalignment caused poor material transfer, increased spillage, and disrupt
 - **Quick Turnaround:** Designed, modeled, and delivered the adapters within a short timeframe, minimizing downtime.
 - **Replicable Design:** One model served three lines — no adjustments were needed, which simplified fabrication and documentation.
 - **Low-Cost, High-Impact:** Solved a system-level problem using a minimalist, robust design that required no additional controls or moving parts.
+
 
 # Feeder Pipe Housing System
 ## Overview 
@@ -105,7 +108,7 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 **Figure 1.** Dust accumulation by the feeder.
 
 ## Design Process
-**Version 1: Basic Dual-Inlet Housing**
+### Version 1: Basic Dual-Inlet Housing
 
 **1) Measurement & Fitment Planning:** I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
 
@@ -113,26 +116,31 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 
   I created a tri-ported housing with:
 - Two angled inlets (left and right)
-- A single outlet aligned with the line intake
-- Internal flow guides to reduce turbulence and promote smooth merging of materials
+- A single outlet
+- Smooth internal finish to reduce turbulence and ensure smooth materail flow
 - Bolt-on flanges for quick mounting
 
 **3) Fabrication-Ready Design:** Using sheet metal tools in SolidWorks, I ensured the model could be laser cut and bent with standard shop capabilities.
 
-**Version 2: Pour-In Enabled Housing with Hinged Lids**
+### Version 2: Pour-In Enabled Housing with Hinged Lids
 
-As soon as the first housing was installed, operators requested a way to manually add small batches of material, such as when cleaning or starting a new product run. Instead of modifying the first unit, I created an enhanced second version.
+**1) Operator-Driven Requirement**
 
-**1) Modified Design Based on Operator Feedback**
+Shortly after, I was asked to design a different housing — this time for a single pipe feeding into the line, but with the ability for operators to manually top up material during production.
 
-  I retained the overall geometry of the first housing but added:
-- Two top-facing access ports (one on each side)
-- Hinged metal lids with small handles and magnetic closures
-- Safety flanges to prevent sharp edges and improve operator comfort
+**2) SolidWorks Design**
 
-**2) Structural Enhancements:** To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
+I modeled a cylindrical housing with:
+- One inlet pipe feeding material in
+- One outlet port aligned to the line
+- A bowl-shaped opening on the top to act as a funnel
+- A hinged metal lid with a handle to cover the bowl when not in use
 
-**3) Prototyping & Collaboration:** I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
+The housing was compact and mounted vertically. I took care to angle the bowl opening to make pouring easier from a standing position.
+
+**3) Ergonomics & Safety**
+
+I consulted operators to make sure the height and opening size were practical. The lid was designed to stay closed with a magnetic catch to prevent accidental spills.
 
 ## Outcomes & Impact
 - Improved Material Flow: The housings connected all pipes securely, reduced product loss, and promoted consistent merging of material into the line.
@@ -140,3 +148,43 @@ As soon as the first housing was installed, operators requested a way to manuall
 - Operator Empowerment: The pour-in version gave staff more control, reducing downtime during material top-ups and changeovers.
 - Adaptable Design: The two versions gave the team flexibility depending on the line’s specific needs — sealed vs. access-enabled.
 - Fast Turnaround: Both designs were manufacturable in-house with existing shop equipment, keeping costs and delays to a minimum.
+
+
+# Concept Design – Metal Separator
+## Overview 
+I developed a concept for a magnetic rod-based separator designed to fit inside a feeder pipe and capture ferrous metal contaminants before they reach downstream equipment. The goal was to create a passive, easy-to-install solution that could be manufactured in-house and maintained with minimal effort. While the design was not manufactured during my co-op, it demonstrated initiative and served as a proof of concept for future process improvements.
+
+## Background & Objective
+Occasional metal contamination — such as small bolts, screws, or shavings — was reported in the plastic pellet stream, posing a risk to sensitive feeder machinery and overall product quality. The engineering team was looking for simple, low-cost ideas that didn’t require expensive equipment or redesigning the system.
+
+I took the initiative to propose a magnetic separator concept that could be installed directly inside the material feed pipe, allowing magnetic contaminants to be removed passively without interrupting normal flow.
+
+{% include image-gallery.html images="project2.jpg" height="400" %}
+**Figure 1.** Dust accumulation by the feeder.
+
+## Design Process
+**1) Research & Problem Exploration**
+I reviewed reports of past contamination incidents and spoke with maintenance staff to understand the root causes. Most contaminants were ferrous, suggesting that a magnetic solution could work. The existing system offered no accessible way to intercept these particles.
+
+**2) Concept Development in SolidWorks**
+
+I designed a drop-in separator insert made up of:
+- A round flange or ring to seat the unit within the feeder pipe
+- Multiple horizontal neodymium magnetic rods to span the diameter of the pipe and intercept falling metal
+- A handle or tab for easy insertion and removal during maintenance
+- Clearance around the rods to allow uninterrupted flow of plastic pellets
+
+**3) Material & Design Considerations**
+
+I selected stainless steel encased magnets for safety and corrosion resistance, and designed the rest of the parts for sheet metal fabrication or CNC using shop-ready tools.
+
+**4) Collaborative Feedback**
+
+I reviewed the design informally with the engineering team, who confirmed its feasibility as a future improvement but chose not to implement it during my co-op term due to timing and production priorities.
+
+## Outcomes & Impact
+- Showcased Proactive Problem Solving: The project wasn’t assigned — I identified the issue and proposed a solution independently.
+- Functional, Scalable Concept: Designed to be installed in any vertical feed pipe without requiring structural changes.
+- Passive, No-Maintenance Operation: Concept relied on magnetic attraction rather than sensors or active systems.
+- Low-Cost, In-House Manufacturable: Could be built using existing equipment and materials with minimal overhead.
+- Positive Reception: While not implemented, the design was well received and retained for future consideration.
