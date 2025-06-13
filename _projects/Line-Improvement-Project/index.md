@@ -31,21 +31,21 @@ The team needed a way to funnel loose material cleanly into the feeder and elimi
 **Figure 1.** Dust accumulation by the feeder.
 
 ## Design Process
-**1. Measurement & Reverse Engineering:** I removed the existing hopper lid and took detailed measurements of its diameter, bolt pattern, and overall geometry. This ensured any modified version would fit exactly into place without needing changes to the hopper body.
+**1) Measurement & Reverse Engineering:** I removed the existing hopper lid and took detailed measurements of its diameter, bolt pattern, and overall geometry. This ensured any modified version would fit exactly into place without needing changes to the hopper body.
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 2.** Existing Hopper Lid.
 
-**2. 3D Redesign in SolidWorks:** Using SolidWorks, I recreated the lid model and then:
+**2) 3D Redesign in SolidWorks:** Using SolidWorks, I recreated the lid model and then:
 - Added a bowl-shaped attachment to direct material toward the center opening.
 - Integrated a splitter fin into the funnel that would break up clumps and guide flow more evenly into the feeder.
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 3.** SolidWorks Model of New Design.
 
-**3. Design for Manufacturing:** I ensured the new design could be fabricated with minimal changes to the lid structure — bolt holes and lid sealing features were preserved. 
+**3) Design for Manufacturing:** I ensured the new design could be fabricated with minimal changes to the lid structure — bolt holes and lid sealing features were preserved. 
 
-**4. Operator and Maintenance Input:** Before finalizing the design, I shared it with shop floor staff to confirm ease of use and cleaning.
+**4) Operator and Maintenance Input:** Before finalizing the design, I shared it with shop floor staff to confirm ease of use and cleaning.
 
 {% include image-gallery.html images="project2.jpg" height="400" %}
 **Figure 4.** New Hopper Lid with Dust Collector.
@@ -69,17 +69,17 @@ This misalignment caused poor material transfer, increased spillage, and disrupt
 **Figure 1.** Dust accumulation by the feeder.
 
 ## Design Process
-**1. On-Site Assessment & Measurements:** I measured the vertical offset between the hopper and the feeder, and took diameter measurements for both ends. The solution had to be simple, reliable, and repeatable — as three different production lines were affected by the same issue.
+**1) On-Site Assessment & Measurements:** I measured the vertical offset between the hopper and the feeder, and took diameter measurements for both ends. The solution had to be simple, reliable, and repeatable — as three different production lines were affected by the same issue.
 
-**2. Adapter Geometry & Modeling:** I designed a tapered adapter sleeve in SolidWorks with:
+**2) Adapter Geometry & Modeling:** I designed a tapered adapter sleeve in SolidWorks with:
 - A smaller diameter at the top (to fit the hopper outlet)
 - A larger diameter at the bottom (to match the feeder inlet)
 - A smooth internal transition to avoid material hang-up or turbulence
 - The design had no moving parts, no fasteners, and could be easily clamped or sealed into place using the existing assembly hardware.
 
-**3. Standardization for Scalability:** Since the gap and pipe dimensions were identical across all three affected lines, I reused the same design for all units, allowing for batch fabrication and quick installation.
+**3) Standardization for Scalability:** Since the gap and pipe dimensions were identical across all three affected lines, I reused the same design for all units, allowing for batch fabrication and quick installation.
 
-**4. Fabrication Readiness:** The model was optimized for machining or sheet metal forming, using standard pipe stock sizes to keep material costs low and turnaround time short.
+**4) Fabrication Readiness:** The model was optimized for machining or sheet metal forming, using standard pipe stock sizes to keep material costs low and turnaround time short.
 
 ## Outcomes & Impact
 - **Restored Full Operation:** Material flow between hopper and feeder was immediately reestablished.
@@ -106,9 +106,10 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 
 ## Design Process
 **Version 1: Basic Dual-Inlet Housing**
-1) Measurement & Fitment Planning: I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
 
-2) CAD Modeling in SolidWorks:
+**1) Measurement & Fitment Planning:** I measured the three involved pipes — two inlets and one outlet — and determined how they needed to converge while maintaining consistent flow. Spatial constraints and existing mounting brackets were factored into the design.
+
+**2) CAD Modeling in SolidWorks:**
 
   I created a tri-ported housing with:
 - Two angled inlets (left and right)
@@ -116,22 +117,22 @@ While I wasn’t provided the previous setup, it was clear from the open-ended n
 - Internal flow guides to reduce turbulence and promote smooth merging of materials
 - Bolt-on flanges for quick mounting
 
-3) Fabrication-Ready Design: Using sheet metal tools in SolidWorks, I ensured the model could be laser cut and bent with standard shop capabilities.
+**3) Fabrication-Ready Design:** Using sheet metal tools in SolidWorks, I ensured the model could be laser cut and bent with standard shop capabilities.
 
 **Version 2: Pour-In Enabled Housing with Hinged Lids**
 
 As soon as the first housing was installed, operators requested a way to manually add small batches of material, such as when cleaning or starting a new product run. Instead of modifying the first unit, I created an enhanced second version.
 
-1. Modified Design Based on Operator Feedback
+**1) Modified Design Based on Operator Feedback**
 
   I retained the overall geometry of the first housing but added:
 - Two top-facing access ports (one on each side)
 - Hinged metal lids with small handles and magnetic closures
 - Safety flanges to prevent sharp edges and improve operator comfort
 
-2. Structural Enhancements: To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
+**2) Structural Enhancements:** To ensure the top remained structurally sound despite the added openings, I thickened the lid region and used cross-bracing inside the sheet metal bends.
 
-3. Prototyping & Collaboration: I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
+**3) Prototyping & Collaboration:** I worked closely with the shop team to test lid tolerances, and with operators to make sure pouring angles and access heights were comfortable during use.
 
 ## Outcomes & Impact
 - Improved Material Flow: The housings connected all pipes securely, reduced product loss, and promoted consistent merging of material into the line.
