@@ -159,9 +159,6 @@ Occasional metal contamination — such as small bolts, screws, or shavings — 
 
 I took the initiative to propose a magnetic separator concept that could be installed directly inside the material feed pipe, allowing magnetic contaminants to be removed passively without interrupting normal flow.
 
-{% include image-gallery.html images="project2.jpg" height="400" %}
-**Figure 1.** Dust accumulation by the feeder.
-
 ## Design Process
 **1) Research & Problem Exploration**
 I reviewed reports of past contamination incidents and spoke with maintenance staff to understand the root causes. Most contaminants were ferrous, suggesting that a magnetic solution could work. The existing system offered no accessible way to intercept these particles.
@@ -170,21 +167,11 @@ I reviewed reports of past contamination incidents and spoke with maintenance st
 
 I designed a drop-in separator insert made up of:
 - A round flange or ring to seat the unit within the feeder pipe
-- Multiple horizontal neodymium magnetic rods to span the diameter of the pipe and intercept falling metal
+- Multiple horizontal magnetic rods to span the diameter of the pipe and intercept falling metal
 - A handle or tab for easy insertion and removal during maintenance
-- Clearance around the rods to allow uninterrupted flow of plastic pellets
-
-**3) Material & Design Considerations**
-
-I selected stainless steel encased magnets for safety and corrosion resistance, and designed the rest of the parts for sheet metal fabrication or CNC using shop-ready tools.
-
-**4) Collaborative Feedback**
-
-I reviewed the design informally with the engineering team, who confirmed its feasibility as a future improvement but chose not to implement it during my co-op term due to timing and production priorities.
 
 ## Outcomes & Impact
 - Showcased Proactive Problem Solving: The project wasn’t assigned — I identified the issue and proposed a solution independently.
-- Functional, Scalable Concept: Designed to be installed in any vertical feed pipe without requiring structural changes.
+- Functional, Scalable Concept: Designed to be installed in any feed pipe without requiring structural changes.
 - Passive, No-Maintenance Operation: Concept relied on magnetic attraction rather than sensors or active systems.
-- Low-Cost, In-House Manufacturable: Could be built using existing equipment and materials with minimal overhead.
 - Positive Reception: While not implemented, the design was well received and retained for future consideration.
