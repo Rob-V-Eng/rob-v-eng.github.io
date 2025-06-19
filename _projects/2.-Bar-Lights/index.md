@@ -70,12 +70,19 @@ The completed units are installed and suspended from the ceiling and wall, as sh
 {% include image-gallery.html images="NCM2-6.png" height="600" %}
 {% include image-gallery.html images="NCM2-7.png" height="600" %}
 ## On-Site Pictures
-{% include image-gallery.html images="NCM2-8.jpg" height="600" %} 
-{% include image-gallery.html images="NCM2-9.jpg" height="600" %} 
-{% include image-gallery.html images="NCM2-10.jpg" height="600" %} 
+{% include image-gallery.html images="NCM2-8.jpg" height="600" %}
+
+{% include image-gallery.html images="NCM2-9.jpg" height="600" %}
+
+{% include image-gallery.html images="NCM2-10.jpg" height="600" %}
+
 {% include image-gallery.html images="NCM2-11.jpg" height="600" %}
+
 {% include image-gallery.html images="NCM2-12.jpg" height="600" %}
-{% include image-gallery.html images="NCM2-16.jpg" height="600" %} 
+
+{% include image-gallery.html images="NCM2-16.jpg" height="600" %}
+
 {% include image-gallery.html images="NCM2-17.jpg" height="600" %}
+
 {% include image-gallery.html images="NCM2-18.jpg" height="600" %}
 
