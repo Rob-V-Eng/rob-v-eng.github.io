@@ -11,7 +11,7 @@ skills:
   - Sheet metal detailing and laser-cut part design
   - Customer coordination and approval workflow
 
-main-image: /NCM1-7.png
+main-image: /NCM1-8.png
 ---
 
 ---
