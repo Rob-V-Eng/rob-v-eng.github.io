@@ -1,68 +1,68 @@
 ---
 layout: post
-title: Shelves
-description:  I led the technical design and production detailing of a custom suspended bar shelf and TV display for a Denny’s restaurant. The unit was designed to hang above the bar workspace, providing shelving on the interior and TV mounting cavities on the customer-facing side. I translated the client's initial concept into a complete set of manufacturable SolidWorks drawings, coordinated design approvals, and prepared all component drawings for fabrication and finishing.
+title: Custom Metal Fixtures for Residential Renovation
+description:  I designed a series of custom metal shelving units for a residential renovation, including a basement bar shelf, a floating glass shelf system in the dining area, and two shelving units in the lounge. Each piece was developed to match the interior design vision while remaining fully functional and practical for fabrication and installation. I handled the complete design workflow — from interpreting client concepts to creating shop drawings, coordinating revisions, and overseeing production.
 
 skills: 
-  - SolidWorks
-  - Design for Manufacturing (DFM)
-  - Assembly and modular design
-  - Bill of Materials creation
-  - Sheet metal detailing and laser-cut part design
-  - Customer coordination and approval workflow
+- SolidWorks (multi-part assemblies, welded structures, machined components)
+- Laser-cut part detailing and nesting awareness
+- Mixed-material integration (metal with glass and wood)
+- Clean, concealed fastener design
+- Bill of Materials creation and assembly sequencing
+- Fabrication coordination and quality control
+- Interpretation of interior design intent and translation into technical drawings
 
 main-image: /NCM1-7.png
 ---
 
 ---
 ## Background & Objective
-The client provided conceptual drawings for a ceiling-mounted unit that needed to be both functional and visually clean. On the employee-facing side, the unit required open shelving for bottles and bar supplies, while the customer-facing side needed four recessed cavities for flush-mounted TVs. The unit had to be sturdy, easy to install in sections, and visually match the interior aesthetic.
+The renovation involved designing multiple feature shelving units to suit different spaces in the home. Each piece needed to reflect the style and layout of its environment while using consistent materials and finish quality. The work was coordinated through a third-party design firm who provided general concepts and specifications. My job was to take those concepts and turn them into detailed SolidWorks models and shop-ready drawings for fabrication.
 
-My role was to:
+The goal was to produce:
 
-- Convert the client’s concept into full 3D and 2D drawings
-- Ensure structural feasibility and ease of fabrication
-- Break down the design into manageable sub-assemblies for mounting
-- Detail all components for manufacturing, including custom features like TV wire routing
+- A modern, functional bar shelf in the basement
+- A light, visually minimal floating glass shelf system for the dining area
+- Two wood-accented shelving units for the lounge that blended industrial and natural materials
 
 ## Design and Prototyping Process
-1. Interpreting Client Vision
-I received basic concept sketches from the client, then recreated the unit in SolidWorks as a detailed 3D model. I maintained the design intent but refined proportions, spacing, and material selection to ensure the final product could be reliably fabricated and installed.
+### Basement Bar Shelf
+- Constructed using laser-cut metal plates and flat bars for a minimalist, industrial aesthetic
+- Designed for wall mounting, with hidden fasteners for a clean appearance
+- Accounted for the weight of liquor bottles and accessories, ensuring adequate bracket support and mounting points
+- Created access for concealed hardware and simplified the installation process during production planning
 
-2. Sub-Assembly Structuring
-Given the size and weight of the full unit, I divided it into four sub-assemblies, allowing it to be mounted in sections. This made transport, handling, and ceiling installation significantly safer and easier, and ensured precise alignment between modules.
+### Dining Area Floating Glass Shelf Unit
+- This unit featured four staggered glass shelves supported by a floating metal structure
+- The frame was built using different-sized metal tubes for variation in visual weight, along with machined brackets to hold the glass in place
+- The design prioritized minimal visible hardware and clean lines, which required precision in the frame’s internal supports and joinery
+- I carefully planned wire routing and alignment to ensure shelves stayed level and secure
 
-3. Structural & Aesthetic Detailing
+### Lounge Area Wood & Metal Shelving Units
+- These two units were fabricated from square metal tubing, laser-cut side panels, and flat bar supports, combined with wooden shelf panels
+- I designed integrated notches and seatings for the wood inserts to ensure a flush fit and prevent visible fasteners
+- The metal finish was selected to contrast the wood tones, creating a modern-rustic blend that matched the rest of the lounge decor
+- I also ensured mounting brackets were recessed or hidden to keep the aesthetic clean from all visible angles
 
-- The frame was built using welded square tubing and flat bars for support and mounting.
-- Decorative metal mesh panels were added for visual texture and ventilation.
-- Laser-cut metal sheets formed the back of the TV cavities and added clean finishes to exposed faces.
-- I included wire pass-through holes in each TV cavity to allow hidden routing of cables and power connections.
-- All parts were designed with matte black powder coating in mind, ensuring good weld clean-up and consistent surface finish.
+## Workflow Responsibilities
+Across all three sub-projects, my role followed the same structured process:
 
-4. Client Review & Revisions
-I presented the complete SolidWorks model and drawings to the client for review, made several revisions based on feedback (mostly regarding mounting detail and spacing), and finalized the drawings for production once approved.
+**1. Client Concept Interpretation:** Received a design brief and reference sketches from the client’s architectural team.
 
-The assembly drawing for the unit is shown below:
+**2. CAD Development in SolidWorks:** Modeled each unit in 3D, refined dimensions and tolerances, and ensured material compatibility and structural soundness.
 
-{% include image-gallery.html images="NCM1-1.png" height="600" %} 
+**3. Client Review & Revisions:** Submitted assembly drawings for client approval; handled revision cycles smoothly with clear version control.
 
-5. Production Package Preparation
-After sign-off, I created detailed part drawings and a complete bill of materials for fabrication. This included:
+**4. Shop Drawing & BOM Creation:** Generated detailed part drawings, machining notes, welding instructions, and a full bill of materials for fabrication.
 
-- Component drawings for laser cutting, welding, and bending
-- Sub-assembly instructions for in-shop pre-assembly
-- Notes for finish requirements (powder coat spec, prep notes)
-
-The completed unit is installed and suspended from the ceiling at Denny’s, as shown in the image below.
-{% include image-gallery.html images="NCM1-7.png" height="600" %} 
+**5. Fabrication Coordination & QA:** Released drawings to production, communicated with the shop on fabrication details, and performed final checks for quality and accuracy before delivery.
 
 ## Outcomes & Impact 
-- Delivered a highly functional and visually integrated unit that met both architectural and operational needs
-- Reduced installation risk by dividing the unit into four sub-assemblies
-- Ensured manufacturability and finish quality through detailed part drawings and attention to welding and coating processes
-- Demonstrated full-scope project ownership, from CAD modeling to final fabrication handoff
-- Client was satisfied with the final result, and the unit was delivered for powder coating and installation without issue
+- Delivered five unique custom-built shelving units with aesthetic and structural integrity
+- Successfully translated architectural design intent into functional, manufacturable products
+- Helped streamline shop floor fabrication by delivering complete, accurate drawings
+- Improved installation ease by designing around real-world mounting constraints and finish standards
+- Showed adaptability across interior spaces — from industrial bar settings to refined lounge areas
 
 ## Full Set of Assembly Drawings
 {% include image-gallery.html images="NCM1-1.png" height="600" %}
