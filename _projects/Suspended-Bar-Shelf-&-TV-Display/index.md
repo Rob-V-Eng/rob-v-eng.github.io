@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suspended Bar Shelf & TV Display – Denny’s Restaurant
+title: 1. Suspended Bar Shelf & TV Display – Denny’s Restaurant
 description:  I led the technical design and production detailing of a custom suspended bar shelf and TV display for a Denny’s restaurant. The unit was designed to hang above the bar workspace, providing shelving on the interior and TV mounting cavities on the customer-facing side. I translated the client's initial concept into a complete set of manufacturable SolidWorks drawings, coordinated design approvals, and prepared all component drawings for fabrication and finishing.
 
 skills: 
