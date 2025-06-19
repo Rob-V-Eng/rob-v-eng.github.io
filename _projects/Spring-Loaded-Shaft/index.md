@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 ---
 layout: post
 title: Spring-Loaded Cutting Head
 description:  To reduce wear and manual adjustment in the pelletizer cutting process, I redesigned the existing cutting head with a spring-loaded mechanism. This ensures constant blade pressure against the breaker head, improving blade lifespan and reducing downtime.
+skills: 
+  - SolidWorks
+  - Mechanical Design
+  - DFM/DFA
+  - Prototyping
+  - Problem Solving
+=======
+---
+layout: post
+title: Spring-Loaded Cutting Head
+description:  To reduce wear and manual adjustment in the pelletizer cutting process, I redesigned the existing cutting head with a spring-loaded mechanism. This ensures constant blade pressure against the breaker head, improving blade lifespan and reducing downtime.
+>>>>>>> f9fc3764f050e16c04dea6fa6a1a98c1463ab44d
 
 skills: 
   - SolidWorks.
@@ -36,3 +49,4 @@ Several design iterations were explored to ensure proper material compatibility,
 - Reduced pelletizer machine downtime by 30%
 - Increased blade lifespan
 - Reduced manual work for operators
+
