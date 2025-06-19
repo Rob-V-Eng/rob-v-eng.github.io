@@ -45,7 +45,7 @@ I presented the complete SolidWorks model and drawings to the client for review,
 
 The assembly drawing for the unit is shown below:
 
-{% include image-gallery.html images="NCM1-1.png" height="400" %} 
+{% include image-gallery.html images="NCM1-1.png" height="600" %} 
 
 5. Production Package Preparation
 After sign-off, I created detailed part drawings and a complete bill of materials for fabrication. This included:
@@ -55,7 +55,7 @@ After sign-off, I created detailed part drawings and a complete bill of material
 - Notes for finish requirements (powder coat spec, prep notes)
 
 The completed unit is installed and suspended from the ceiling at Denny’s, as shown in the image below.
-{% include image-gallery.html images="NCM1-7.png" height="400" %} 
+{% include image-gallery.html images="NCM1-7.png" height="600" %} 
 
 ## Outcomes & Impact 
 - Delivered a highly functional and visually integrated unit that met both architectural and operational needs
@@ -65,10 +65,10 @@ The completed unit is installed and suspended from the ceiling at Denny’s, as 
 - Client was satisfied with the final result, and the unit was delivered for powder coating and installation without issue
 
 ## Full Set of Assembly Drawings
-{% include image-gallery.html images="NCM1-1.png" height="400" %}
-{% include image-gallery.html images="NCM1-2.png" height="400" %} 
-{% include image-gallery.html images="NCM1-3.png" height="400" %} 
-{% include image-gallery.html images="NCM1-4.png" height="400" %} 
-{% include image-gallery.html images="NCM1-5.png" height="400" %} 
-{% include image-gallery.html images="NCM1-6.png" height="400" %} 
-{% include image-gallery.html images="NCM1-7.png" height="400" %} 
+{% include image-gallery.html images="NCM1-1.png" height="600" %}
+{% include image-gallery.html images="NCM1-2.png" height="600" %} 
+{% include image-gallery.html images="NCM1-3.png" height="600" %} 
+{% include image-gallery.html images="NCM1-4.png" height="600" %} 
+{% include image-gallery.html images="NCM1-5.png" height="600" %} 
+{% include image-gallery.html images="NCM1-6.png" height="600" %} 
+{% include image-gallery.html images="NCM1-7.png" height="600" %} 
