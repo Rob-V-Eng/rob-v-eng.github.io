@@ -4,7 +4,7 @@ title: Bar Lights
 description:  I designed and developed a set of four custom L-shaped bar lights for Bellwoods Brewery, delivered through a third-party design and fabrication firm. The lights were made from welded metal tubing, flat bars, and laser-cut plates, and finished in satin brass to match the brewery’s interior. I was responsible for translating the client's concept into a fully detailed SolidWorks model, creating fabrication drawings, coordinating client approvals, and supporting the production and quality check phases.
 
 skills: 
-  - SolidWorks (Assembly Design, Shop Drawings, Custom Fixtures)
+  - SolidWorks
   - Weld Planning and DFM (Design for Manufacturability)
   - Electrical Routing Integration (wiring inside structural tubing)
   - Sheet Metal & Laser-Cut Component Design
