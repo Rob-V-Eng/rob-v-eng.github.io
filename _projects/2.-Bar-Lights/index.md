@@ -12,7 +12,7 @@ skills:
   - Fabrication Oversight and Quality Control
   - Architectural Fixture Design
 
-main-image: /NCM2-9.png
+main-image: /NCM2-9.jpg
 ---
 
 ---
