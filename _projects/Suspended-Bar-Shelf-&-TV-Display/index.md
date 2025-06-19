@@ -41,7 +41,7 @@ Given the size and weight of the full unit, I divided it into four sub-assemblie
 - All parts were designed with matte black powder coating in mind, ensuring good weld clean-up and consistent surface finish.
 
 4. Client Review & Revisions
-I presented the complete SolidWorks model and drawings to the client for review, made several rounds of revisions based on feedback (mostly regarding mounting detail and spacing), and finalized the drawings for production once approved.
+I presented the complete SolidWorks model and drawings to the client for review, made several revisions based on feedback (mostly regarding mounting detail and spacing), and finalized the drawings for production once approved.
 
 5. Production Package Preparation
 After sign-off, I created detailed part drawings and a complete bill of materials for fabrication. This included:
@@ -50,8 +50,6 @@ After sign-off, I created detailed part drawings and a complete bill of material
 - Sub-assembly instructions for in-shop pre-assembly
 - Notes for finish requirements (powder coat spec, prep notes)
 
-{% include image-gallery.html images="project2-3.png" height="400" %} 
-**Figure 3.**
 
 ## Outcomes & Impact 
 - Delivered a highly functional and visually integrated unit that met both architectural and operational needs
