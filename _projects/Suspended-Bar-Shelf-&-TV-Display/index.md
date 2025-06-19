@@ -11,7 +11,7 @@ skills:
   - Sheet metal detailing and laser-cut part design
   - Customer coordination and approval workflow
 
-main-image: /project2-3.png
+main-image: /NCM1-7.png
 ---
 
 ---
@@ -43,6 +43,10 @@ Given the size and weight of the full unit, I divided it into four sub-assemblie
 4. Client Review & Revisions
 I presented the complete SolidWorks model and drawings to the client for review, made several revisions based on feedback (mostly regarding mounting detail and spacing), and finalized the drawings for production once approved.
 
+The assembly drawing for the unit is shown below:
+
+{% include image-gallery.html images="NCM1-1.png" height="400" %} 
+
 5. Production Package Preparation
 After sign-off, I created detailed part drawings and a complete bill of materials for fabrication. This included:
 
@@ -50,6 +54,8 @@ After sign-off, I created detailed part drawings and a complete bill of material
 - Sub-assembly instructions for in-shop pre-assembly
 - Notes for finish requirements (powder coat spec, prep notes)
 
+The completed unit is installed and suspended from the ceiling at Denny’s, as shown in the image below.
+{% include image-gallery.html images="NCM1-7.png" height="400" %} 
 
 ## Outcomes & Impact 
 - Delivered a highly functional and visually integrated unit that met both architectural and operational needs
@@ -57,3 +63,12 @@ After sign-off, I created detailed part drawings and a complete bill of material
 - Ensured manufacturability and finish quality through detailed part drawings and attention to welding and coating processes
 - Demonstrated full-scope project ownership, from CAD modeling to final fabrication handoff
 - Client was satisfied with the final result, and the unit was delivered for powder coating and installation without issue
+
+## Full Set of Assembly Drawings
+{% include image-gallery.html images="NCM1-1.png" height="400" %}
+{% include image-gallery.html images="NCM1-2.png" height="400" %} 
+{% include image-gallery.html images="NCM1-3.png" height="400" %} 
+{% include image-gallery.html images="NCM1-4.png" height="400" %} 
+{% include image-gallery.html images="NCM1-5.png" height="400" %} 
+{% include image-gallery.html images="NCM1-6.png" height="400" %} 
+{% include image-gallery.html images="NCM1-7.png" height="400" %} 
