@@ -12,7 +12,7 @@ skills:
   - Fabrication Oversight and Quality Control
   - Architectural Fixture Design
 
-main-image: /NCM1-7.png
+main-image: /NCM2-9.png
 ---
 
 ---
@@ -46,7 +46,13 @@ I specified weld type, weld locations, and weld accessibility in the drawings to
 - Upon approval, I created detailed part drawings and a complete fabrication package for release to the shop.
 - I monitored key production steps and conducted a final quality check before the pieces were sent for satin brass finishing and delivery.
 
-{% include image-gallery.html images="NCM1-7.png" height="600" %} 
+The assembly drawings are shown below:
+{% include image-gallery.html images="NCM2-1.png" height="600" %} 
+{% include image-gallery.html images="NCM2-7.png" height="600" %} 
+
+The completed units are installed and suspended from the ceiling and wall, as shown in the images below. The full set of on-site pictures are shown at the bottom of this page.
+{% include image-gallery.html images="NCM2-9.jpg" height="600" %} 
+{% include image-gallery.html images="NCM2-16.jpg" height="600" %} 
 
 ## Outcomes & Impact 
 - Delivered four unique lighting fixtures with precise fit, finish, and electrical integration
@@ -56,10 +62,20 @@ I specified weld type, weld locations, and weld accessibility in the drawings to
 - Demonstrated full-cycle project execution, from concept interpretation to post-fabrication QA
 
 ## Full Set of Assembly Drawings
-{% include image-gallery.html images="NCM1-1.png" height="600" %}
-{% include image-gallery.html images="NCM1-2.png" height="600" %} 
-{% include image-gallery.html images="NCM1-3.png" height="600" %} 
-{% include image-gallery.html images="NCM1-4.png" height="600" %} 
-{% include image-gallery.html images="NCM1-5.png" height="600" %} 
-{% include image-gallery.html images="NCM1-6.png" height="600" %} 
+{% include image-gallery.html images="NCM2-1.png" height="600" %}
+{% include image-gallery.html images="NCM2-2.png" height="600" %} 
+{% include image-gallery.html images="NCM2-3.png" height="600" %} 
+{% include image-gallery.html images="NCM2-4.png" height="600" %} 
+{% include image-gallery.html images="NCM2-5.png" height="600" %} 
+{% include image-gallery.html images="NCM2-6.png" height="600" %}
+{% include image-gallery.html images="NCM2-7.png" height="600" %}
+## On-Site Pictures
+{% include image-gallery.html images="NCM2-8.jpg" height="600" %} 
+{% include image-gallery.html images="NCM2-9.jpg" height="600" %} 
+{% include image-gallery.html images="NCM2-10.jpg" height="600" %} 
+{% include image-gallery.html images="NCM2-11.jpg" height="600" %}
+{% include image-gallery.html images="NCM2-12.jpg" height="600" %}
+{% include image-gallery.html images="NCM2-16.jpg" height="600" %} 
+{% include image-gallery.html images="NCM2-17.jpg" height="600" %}
+{% include image-gallery.html images="NCM2-18.jpg" height="600" %}
 
