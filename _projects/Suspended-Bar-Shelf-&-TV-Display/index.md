@@ -71,4 +71,3 @@ The completed unit is installed and suspended from the ceiling at Denny’s, as 
 {% include image-gallery.html images="NCM1-4.png" height="600" %} 
 {% include image-gallery.html images="NCM1-5.png" height="600" %} 
 {% include image-gallery.html images="NCM1-6.png" height="600" %} 
-{% include image-gallery.html images="NCM1-7.png" height="600" %} 
