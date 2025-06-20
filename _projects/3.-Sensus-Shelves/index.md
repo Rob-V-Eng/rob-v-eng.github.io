@@ -4,9 +4,9 @@ title: Custom Metal Fixtures for Residential Renovation
 description:  I designed a series of custom metal shelving units for a residential renovation, including a basement bar shelf, a floating glass shelf system in the dining area, and two shelving units in the lounge. Each piece was developed to match the interior design vision while remaining fully functional and practical for fabrication and installation. I handled the complete design workflow — from interpreting client concepts to creating shop drawings, coordinating revisions, and overseeing production.
 
 skills: 
-- SolidWorks (multi-part assemblies, welded structures, machined components)
+- SolidWorks
 - Laser-cut part detailing and nesting awareness
-- Mixed-material integration (metal with glass and wood)
+- Mixed-material integration
 - Clean, concealed fastener design
 - Bill of Materials creation and assembly sequencing
 - Fabrication coordination and quality control
@@ -32,17 +32,23 @@ The goal was to produce:
 - Accounted for the weight of liquor bottles and accessories, ensuring adequate bracket support and mounting points
 - Created access for concealed hardware and simplified the installation process during production planning
 
+{% include image-gallery.html images="NCM3-1.png" height="600" %}
+
 ### Dining Area Floating Glass Shelf Unit
 - This unit featured four staggered glass shelves supported by a floating metal structure
 - The frame was built using different-sized metal tubes for variation in visual weight, along with machined brackets to hold the glass in place
 - The design prioritized minimal visible hardware and clean lines, which required precision in the frame’s internal supports and joinery
 - I carefully planned wire routing and alignment to ensure shelves stayed level and secure
 
+{% include image-gallery.html images="NCM3-3.png" height="600" %}
+
 ### Lounge Area Wood & Metal Shelving Units
 - These two units were fabricated from square metal tubing, laser-cut side panels, and flat bar supports, combined with wooden shelf panels
 - I designed integrated notches and seatings for the wood inserts to ensure a flush fit and prevent visible fasteners
 - The metal finish was selected to contrast the wood tones, creating a modern-rustic blend that matched the rest of the lounge decor
 - I also ensured mounting brackets were recessed or hidden to keep the aesthetic clean from all visible angles
+
+{% include image-gallery.html images="NCM3-6.png" height="600" %}
 
 ## Workflow Responsibilities
 Across all three sub-projects, my role followed the same structured process:
@@ -57,6 +63,10 @@ Across all three sub-projects, my role followed the same structured process:
 
 **5. Fabrication Coordination & QA:** Released drawings to production, communicated with the shop on fabrication details, and performed final checks for quality and accuracy before delivery.
 
+{% include image-gallery.html images="NCM3-8.png" height="600" %}
+{% include image-gallery.html images="NCM3-10.png" height="600" %}
+{% include image-gallery.html images="NCM3-13.png" height="600" %}
+
 ## Outcomes & Impact 
 - Delivered five unique custom-built shelving units with aesthetic and structural integrity
 - Successfully translated architectural design intent into functional, manufacturable products
@@ -65,7 +75,7 @@ Across all three sub-projects, my role followed the same structured process:
 - Showed adaptability across interior spaces — from industrial bar settings to refined lounge areas
 
 ## Full Set of Assembly Drawings
-{% include image-gallery.html images="NCM1-1.png" height="600" %}
+{% include image-gallery.html images="NCM3-1.png" height="600" %}
 {% include image-gallery.html images="NCM1-2.png" height="600" %} 
 {% include image-gallery.html images="NCM1-3.png" height="600" %} 
 {% include image-gallery.html images="NCM1-4.png" height="600" %} 
