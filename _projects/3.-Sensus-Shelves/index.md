@@ -105,5 +105,5 @@ This installation experience helped me better understand the practical demands o
 {% include image-gallery.html images="NCM3-8.png" height="600" %} 
 {% include image-gallery.html images="NCM3-9.png" height="600" %} 
 {% include image-gallery.html images="NCM3-10.png" height="600" %} 
-{% include image-gallery.html images="NCM3-11.png" height="600" %} 
+{% include image-gallery.html images="NCM3-13.png" height="600" %} 
 
