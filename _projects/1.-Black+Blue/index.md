@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black+Blue Restaurant - Wine Wall, Entry Doors & Display Shelving
-description:  I led the technical design and production detailing of a custom suspended bar shelf and TV display for a Denny’s restaurant. The unit was designed to hang above the bar workspace, providing shelving on the interior and TV mounting cavities on the customer-facing side. I translated the client's initial concept into a complete set of manufacturable SolidWorks drawings, coordinated design approvals, and prepared all component drawings for fabrication and finishing.
+description:  I designed several high-impact metal features for Black+Blue, a premium steakhouse in Toronto’s Entertainment District. These included a set of grand antique bronze entrance doors, a large wine display with an integrated rolling ladder, and custom liquor shelving mounted along a central bar column. I was responsible for the full CAD development and shop drawing package, coordinating revisions, and overseeing fabrication readiness.
 
 skills: 
   - SolidWorks
