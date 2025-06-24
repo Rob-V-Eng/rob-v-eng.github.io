@@ -27,7 +27,8 @@ As the mechanical designer assigned to this project, I was responsible for:
 - Preparing full production packages including part breakdowns and weld details
 - Collaborating with the shop floor on fabrication questions, assembly planning, and coating specifications
 
-### 1. Grand Entrance and Patio Double Doors
+### **1. Grand Entrance and Patio Double Doors**
+
 #### Scope & Objective
 Design a visually striking set of oversized metal entrance doors in keeping with the restaurant’s upscale interior style. The design direction aimed for a castle-like aesthetic using layered metals and visible rivets.
 
@@ -54,7 +55,8 @@ Design a visually striking set of oversized metal entrance doors in keeping with
 {% include image-gallery.html images="NCM7-4.png" height="600" %}
 **Figure 4.** Entrance Door (Open).
 
-### 2. Wine Display & Rolling Ladder System
+### **2. Wine Display & Rolling Ladder System**
+
 #### Scope & Objective
 Design and detail a large-scale, wall-mounted wine display with a built-in horizontal rolling ladder for access. The display had to showcase the client’s wine collection prominently while supporting full functional use.
 
@@ -83,7 +85,8 @@ Design and detail a large-scale, wall-mounted wine display with a built-in horiz
 {% include image-gallery.html images="NCM7-6.png" height="600" %}
 **Figure 8.** Wine Display (Rear View).
 
-### 3. Column-Mounted Whiskey Shelf Frames
+### **3. Column-Mounted Whiskey Shelf Frames**
+
 #### Scope & Objective
 Design five decorative and functional liquor shelves to be mounted concentrically around a vertical column rising from the center of the bar area.
 
