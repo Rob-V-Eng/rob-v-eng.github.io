@@ -66,10 +66,18 @@ The completed unit is installed and suspended from the ceiling at Denny’s, as 
 - Client was satisfied with the final result, and the unit was delivered for powder coating and installation without issue
 
 ## Full Set of Assembly Drawings
-{% include image-gallery.html images="NCM1-1.png" height="600" %}
-{% include image-gallery.html images="NCM1-2.png" height="600" %} 
-{% include image-gallery.html images="NCM1-3.png" height="600" %} 
-{% include image-gallery.html images="NCM1-4.png" height="600" %} 
-{% include image-gallery.html images="NCM1-5.png" height="600" %} 
-{% include image-gallery.html images="NCM1-6.png" height="600" %} 
-
+{% include image-gallery.html images="NCM7-1.png" height="600" %}
+{% include image-gallery.html images="NCM7-2.png" height="600" %} 
+{% include image-gallery.html images="NCM7-3.png" height="600" %} 
+{% include image-gallery.html images="NCM7-4.png" height="600" %} 
+{% include image-gallery.html images="NCM7-5.png" height="600" %} 
+{% include image-gallery.html images="NCM7-6.png" height="600" %} 
+{% include image-gallery.html images="NCM7-7.png" height="600" %}
+{% include image-gallery.html images="NCM7-8.png" height="600" %} 
+{% include image-gallery.html images="NCM7-9.png" height="600" %} 
+{% include image-gallery.html images="NCM7-10.png" height="600" %} 
+{% include image-gallery.html images="NCM7-11.png" height="600" %} 
+{% include image-gallery.html images="NCM7-12.png" height="600" %} 
+{% include image-gallery.html images="NCM7-13.png" height="600" %} 
+{% include image-gallery.html images="NCM7-14.png" height="600" %} 
+{% include image-gallery.html images="NCM7-15.png" height="600" %} 
