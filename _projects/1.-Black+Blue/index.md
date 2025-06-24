@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black+Blue Restaurant - Wine Wall, Entry Doors & Display Shelving
-description:  I designed several high-impact metal features for Black+Blue, a premium steakhouse in Toronto’s Entertainment District. These included a set of grand antique bronze entrance doors, a large wine display with an integrated rolling ladder, and custom liquor shelving mounted along a central bar column. I was responsible for the full CAD development and shop drawing package, coordinating revisions, and overseeing fabrication readiness.
+description:  I designed several high-impact metal features for Black+Blue, a premium steakhouse in Toronto’s Entertainment District. These included a set of grand antique bronze entrance and patio doors, a large wine display with an integrated rolling ladder, and custom liquor shelving mounted along a central bar column. I was responsible for the full CAD development and shop drawing package, coordinating revisions, and overseeing fabrication readiness.
 
 skills: 
   - SolidWorks
@@ -17,53 +17,111 @@ main-image: /NCM7-2.png
 
 ---
 ## Background & Objective
-The client provided conceptual drawings for a ceiling-mounted unit that needed to be both functional and visually clean. On the employee-facing side, the unit required open shelving for bottles and bar supplies, while the customer-facing side needed four recessed cavities for flush-mounted TVs. The unit had to be sturdy, easy to install in sections, and visually match the interior aesthetic.
+The client (a design-build firm working with the restaurant group) provided us with general concepts for a range of prominent metal fixtures. The goal was to bring their design vision to life through functional, manufacturable engineering — while ensuring each unit could be produced, transported, and installed cleanly in a high-end hospitality setting.
 
-My role was to:
+As the mechanical designer assigned to this project, I was responsible for:
 
-- Convert the client’s concept into full 3D and 2D drawings
-- Ensure structural feasibility and ease of fabrication
-- Break down the design into manageable sub-assemblies for mounting
-- Detail all components for manufacturing, including custom features like TV wire routing
+- Interpreting and translating conceptual sketches into complete SolidWorks models
+- Creating detailed technical drawings for both client review and shop use
+- Handling design revisions and final drawing submissions for approval
+- Preparing full production packages including part breakdowns and weld details
+- Collaborating with the shop floor on fabrication questions, assembly planning, and coating specifications
 
-## Design and Prototyping Process
-1. Interpreting Client Vision
-I received basic concept sketches from the client, then recreated the unit in SolidWorks as a detailed 3D model. I maintained the design intent but refined proportions, spacing, and material selection to ensure the final product could be reliably fabricated and installed.
+### 1. Grand Entrance and Patio Double Doors
+#### Scope & Objective
+Design a visually striking set of oversized metal entrance doors in keeping with the restaurant’s upscale interior style. The design direction aimed for a castle-like aesthetic using layered metals and visible rivets.
 
-2. Sub-Assembly Structuring
-Given the size and weight of the full unit, I divided it into four sub-assemblies, allowing it to be mounted in sections. This made transport, handling, and ceiling installation significantly safer and easier, and ensured precise alignment between modules.
+#### Design Details
+- Doors constructed from laser-cut sheet metal, flat bars, and metal tubing
+- Multiple layers and decorative patterns created a dimensional, hand-forged appearance
+- Rivets were incorporated across both faces to enhance the traditional ironwork feel
+- Mounting plate alignment, hardware support, and welding instructions were fully detailed in drawings
+- Finished in dark antique bronze for a weathered, architectural look
 
-3. Structural & Aesthetic Detailing
+**Assembly Drawings:**
 
-- The frame was built using welded square tubing and flat bars for support and mounting.
-- Decorative metal mesh panels were added for visual texture and ventilation.
-- Laser-cut metal sheets formed the back of the TV cavities and added clean finishes to exposed faces.
-- I included wire pass-through holes in each TV cavity to allow hidden routing of cables and power connections.
-- All parts were designed with matte black powder coating in mind, ensuring good weld clean-up and consistent surface finish.
+{% include image-gallery.html images="NCM7-7.png" height="600" %}
+**Figure 1.** Entrance Door Drawing.
 
-4. Client Review & Revisions
-I presented the complete SolidWorks model and drawings to the client for review, made several revisions based on feedback (mostly regarding mounting detail and spacing), and finalized the drawings for production once approved.
+{% include image-gallery.html images="NCM7-14.png" height="600" %} 
+**Figure 2.** Patio Door Drawing.
 
-The assembly drawing for the unit is shown below:
+**Final Product:**
 
-{% include image-gallery.html images="NCM1-1.png" height="600" %} 
+{% include image-gallery.html images="NCM7-3.png" height="600" %}
+**Figure 3.** Entrance Door (Closed).
 
-5. Production Package Preparation
-After sign-off, I created detailed part drawings and a complete bill of materials for fabrication. This included:
+{% include image-gallery.html images="NCM7-4.png" height="600" %}
+**Figure 4.** Entrance Door (Open).
 
-- Component drawings for laser cutting, welding, and bending
-- Sub-assembly instructions for in-shop pre-assembly
-- Notes for finish requirements (powder coat spec, prep notes)
+### 2. Wine Display & Rolling Ladder System
+#### Scope & Objective
+Design and detail a large-scale, wall-mounted wine display with a built-in horizontal rolling ladder for access. The display had to showcase the client’s wine collection prominently while supporting full functional use.
 
-The completed unit is installed and suspended from the ceiling at Denny’s, as shown in the image below.
-{% include image-gallery.html images="NCM1-7.png" height="600" %} 
+#### Design Details
+- Overall dimensions: 317" W × 177" H, comprising 7 rows × 7 columns of shelving
+- Built from square metal tubing, flat bar, and laser-cut brackets
+- Top-mounted horizontal rail system integrated for the ladder to roll across the full length
+- Ladder and rail anchoring points were fully engineered for safe load-bearing and easy movement
+- Shelving layout was modeled to ensure consistent spacing and easy bottle access
+- Final assembly designed in sub-sections for transport and installation
+- Finished in satin brass to match the restaurant’s interior fixtures
+
+**Assembly Drawings:**
+
+{% include image-gallery.html images="NCM7-9.png" height="600" %}
+**Figure 5.** Wine Display Drawing.
+
+**Final Product:**
+
+{% include image-gallery.html images="NCM7-1.png" height="600" %}
+**Figure 6.** Wine Display (Visible on Right).
+
+{% include image-gallery.html images="NCM7-2.png" height="600" %}
+**Figure 7.** Wine Display (Visible on Left).
+
+{% include image-gallery.html images="NCM7-6.png" height="600" %}
+**Figure 8.** Wine Display (Rear View).
+
+### 3. Column-Mounted Whiskey Shelf Frames
+#### Scope & Objective
+Design five decorative and functional liquor shelves to be mounted concentrically around a vertical column rising from the center of the bar area.
+
+#### Design Details
+- Shelves were square-shaped metal frames with a central opening to pass through the column
+- Frames made from square tubing, reinforced with perimeter flat bars to support glass insets
+- Custom round tubing guard rails added around the edges of each shelf to prevent bottles from falling
+- Bracket and clamp points were placed to anchor the frames securely to the column without obstructing sightlines
+- Designed for both visual appeal and bartender functionality
+- Finished in satin brass, coordinated with the wine display unit for consistency
+
+**Assembly Drawings:**
+
+{% include image-gallery.html images="NCM7-11.png" height="600" %}
+**Figure 9.** Whiskey Shelf Drawing.
+
+**Final Product:**
+
+{% include image-gallery.html images="NCM7-1.png" height="600" %}
+**Figure 10.** Whiskey Shelves.
+
+## My Involvement
+
+For all three feature pieces, I was involved in every technical stage:
+
+- Received concept designs from the client and extracted structural logic
+- Built full 3D CAD assemblies in SolidWorks to ensure visual alignment and mechanical feasibility
+- Submitted assembly drawings for client approval, incorporated revisions, and finalized detailing
+- Generated individual part drawings and fabrication packages including BOMs, weld notes, cut lists, and hardware callouts
+- Coordinated with fabricators to address design challenges during production (e.g. ladder track anchoring, rivet placement, weld prep)
+- Ensured all finishes (satin brass, antique bronze) were compatible with design (drain holes)
 
 ## Outcomes & Impact 
-- Delivered a highly functional and visually integrated unit that met both architectural and operational needs
-- Reduced installation risk by dividing the unit into four sub-assemblies
-- Ensured manufacturability and finish quality through detailed part drawings and attention to welding and coating processes
-- Demonstrated full-scope project ownership, from CAD modeling to final fabrication handoff
-- Client was satisfied with the final result, and the unit was delivered for powder coating and installation without issue
+- Delivered three complex, high-finish architectural fixtures tailored to the restaurant’s luxury interior
+- Transformed design sketches into fully engineered, production-ready units
+- Demonstrated ability to manage large welded assemblies, modular design, and surface finish coordination
+- Strengthened communication across design, fabrication, and client teams
+- Built a strong portfolio example of functional architectural metalwork at scale
 
 ## Full Set of Assembly Drawings
 {% include image-gallery.html images="NCM7-1.png" height="600" %}
