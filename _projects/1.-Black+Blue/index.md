@@ -12,7 +12,7 @@ skills:
   - Project coordination and approval workflow
   - Weld planning, part nesting, tolerance stacking
 
-main-image: /NCM1-8.png
+main-image: /NCM7-2.png
 ---
 
 ---
