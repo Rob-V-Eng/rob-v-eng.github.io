@@ -13,7 +13,6 @@ skills:
 
 main-image: /NCM8-16.png
 ---
-
 ---
 ## Background & Objective
 The project’s goal was to produce fixtures that were:
