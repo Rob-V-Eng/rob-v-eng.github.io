@@ -11,7 +11,7 @@ skills:
   - Project coordination and approval workflow
   - Weld planning, part nesting, tolerance stacking
 
-main-image: /NCM8-16.png
+main-image: /NCM8-16.jpg
 ---
 
 ---
@@ -42,10 +42,10 @@ I was tasked with turning the client’s concept sketches and requirements into 
 {% include image-gallery.html images="NCM8-13.png" height="600" %}
 **Figure 2.** Sign Frame at Production.
 
-{% include image-gallery.html images="NCM8-15.png" height="600" %}
+{% include image-gallery.html images="NCM8-15.jpg" height="600" %}
 **Figure 3.** Sign Frame at Kiosk.
 
-{% include image-gallery.html images="NCM8-16.png" height="600" %}
+{% include image-gallery.html images="NCM8-16.jpg" height="600" %}
 **Figure 4.** Sign Frame at Kiosk.
 
 #### Beverage Cart
@@ -100,5 +100,5 @@ For both the sign frame and cart, I:
 {% include image-gallery.html images="NCM8-12.png" height="600" %} 
 {% include image-gallery.html images="NCM8-13.png" height="600" %} 
 {% include image-gallery.html images="NCM8-14.png" height="600" %} 
-{% include image-gallery.html images="NCM8-15.png" height="600" %}
-{% include image-gallery.html images="NCM8-16.png" height="600" %} 
+{% include image-gallery.html images="NCM8-15.jpg" height="600" %}
+{% include image-gallery.html images="NCM8-16.jpg" height="600" %} 
