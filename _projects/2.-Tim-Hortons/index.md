@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Tim Hortons - Sign Frame & Beverage Cart
