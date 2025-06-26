@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Hortons-Sign Frame Beverage Cart
+title: Tim Hortons Sign Frame Beverage Cart
 description:  I designed and detailed two custom metal fixtures for a Tim Hortons kiosk: a sign frame that mounted above the serving area, and a mobile beverage cart with integrated cup storage and shelving. Both units were developed for functional daily use and to match Tim Hortons’ branded look. I translated the client’s initial concepts into manufacturable SolidWorks models, created production-ready shop drawings, and supported fabrication coordination.
 
 skills: 
