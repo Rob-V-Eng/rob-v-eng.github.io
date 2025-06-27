@@ -15,7 +15,7 @@ skills:
 - Transportation handling and physical installation support
 - Interpretation of interior design intent and translation into technical drawings
 
-main-image: /NCM1-7.png
+main-image: /NCM3-7.png
 ---
 
 ---
@@ -36,10 +36,10 @@ The goal was to produce:
 - Hidden mounting brackets and smooth outer geometry to keep the appearance clean and modern
 - Welds were placed strategically to reduce visual impact and simplify fabrication
 
-Assembly Drawing:
+**Assembly Drawing:**
 {% include image-gallery.html images="NCM3-1.png" height="600" %}
 
-On-Site Picture:
+**On-Site Picture:**
 {% include image-gallery.html images="NCM3-8.png" height="600" %}
 
 ### Dining Area Floating Glass Shelf Unit
@@ -48,10 +48,10 @@ On-Site Picture:
 - Internal supports and tight tolerances ensured the glass stayed level without visible hardware
 - Precision joinery and clean lines required close collaboration with installers to align the unit perfectly during installation
 
-Assembly Drawing:
+**Assembly Drawing:**
 {% include image-gallery.html images="NCM3-3.png" height="600" %}
 
-On-Site Picture:
+**On-Site Picture:**
 {% include image-gallery.html images="NCM3-10.png" height="600" %}
 
 ### Lounge Area Wood & Metal Shelving Units
@@ -59,10 +59,10 @@ On-Site Picture:
 - Designed for visual warmth while maintaining a structured, geometric look
 - Metalwork was fabricated for a flush fit around the wood shelves without the use of visible fasteners
 
-Assembly Drawing:
+**Assembly Drawing:**
 {% include image-gallery.html images="NCM3-6.png" height="600" %}
 
-On-Site Picture:
+**On-Site Picture:**
 {% include image-gallery.html images="NCM3-13.png" height="600" %}
 
 ### Floor-to-Ceiling Mirror Frames
@@ -70,10 +70,10 @@ On-Site Picture:
 - The frame design ensured alignment without visible fasteners and left room for electrical or LED mounting if required
 - Installation demanded precision to ensure the frames were level, plumb, and flush against surrounding finishes
 
-Assembly Drawing:
+**Assembly Drawing:**
 {% include image-gallery.html images="NCM3-17.png" height="600" %}
 
-On-Site Picture:
+**On-Site Picture:**
 {% include image-gallery.html images="NCM3-9.png" height="600" %}
 
 ## Installation Involvement
