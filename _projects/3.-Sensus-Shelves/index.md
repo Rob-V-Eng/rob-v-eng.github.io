@@ -15,7 +15,7 @@ skills:
 - Transportation handling and physical installation support
 - Interpretation of interior design intent and translation into technical drawings
 
-main-image: /NCM3-7.png
+main-image: /NCM3-10.png
 ---
 
 ---
